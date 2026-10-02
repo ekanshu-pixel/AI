@@ -1,0 +1,3 @@
+# Business data never goes into git — keep raw exports local / in Drive only.
+workspace/data-inbox/*
+!workspace/data-inbox/.gitkeep
