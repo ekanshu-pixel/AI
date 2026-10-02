@@ -4,7 +4,7 @@ Status: Open / Done / Blocked / Dropped. "[TBD]" = owner or date not yet agreed.
 
 | ID | Action | Owner | Due | Status | Source | Notes |
 |----|--------|-------|-----|--------|--------|-------|
-| F1 | Buy Claude plan that includes Claude Code | [TBD] | [TBD] | Open | 1 Oct meeting | Depends on D3 |
+| F1 | Buy Claude plan that includes Claude Code | Founders | 2026-10-02 | Done | 1 Oct meeting | Plan enabled 2 Oct |
 | F2 | Install Claude Code and confirm `/agents` shows 5 specialists | [TBD] | [TBD] | Open | 1 Oct meeting | |
 | F3 | Fill in ROLES.md names | Founders | [TBD] | Done | 1 Oct meeting | Role titles set 2 Oct; add real people + emails before F4 |
 | F4 | Create Drive folders /MIRA/founders, /finance, /sales, /plant and share per role | [TBD] | [TBD] | Open | 1 Oct meeting | |

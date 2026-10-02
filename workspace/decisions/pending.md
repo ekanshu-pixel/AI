@@ -5,10 +5,10 @@ Add new decisions at the bottom. Never delete — mark Resolved with date and ou
 |----|-----------------|--------|-------------|-----|--------|---------|
 | D1 | Company name to use in CLAUDE.md ([COMPANY NAME]) | 2026-10-02 | Founders | [TBD] | Resolved 2026-10-02 | Virgo |
 | D2 | Names for CFO, Sales and Plant roles in ROLES.md | 2026-10-02 | Founders | [TBD] | Resolved 2026-10-02 | Role titles used: Virgo CFO (Finance Head), Virgo Sales Head, Virgo Plant Head. Swap in real people + emails before sharing Drive folders |
-| D3 | Which Claude plan to buy (meeting suggested ~$100/month tier) | 2026-10-02 | Founders | [TBD] | Open | |
+| D3 | Which Claude plan to buy (meeting suggested ~$100/month tier) | 2026-10-02 | Founders | [TBD] | Resolved 2026-10-02 | Claude plan enabled |
 | D4 | Run MIRA on a laptop for week 1, or a cloud VM (GCP/AWS) from day 1 | 2026-10-02 | Founders | [TBD] | Resolved 2026-10-02 | Cloud from day 1 (provider: see D6) |
 | D6 | Which cloud: Claude Code on the web (no server to manage) or own VM on GCP/AWS | 2026-10-02 | Founders | [TBD] | Open | |
-| D5 | Give MIRA its own Google account / email address? | 2026-10-02 | Founders | [TBD] | Open | |
+| D5 | Give MIRA its own Google account / email address? | 2026-10-02 | Founders | [TBD] | Resolved 2026-10-02 | Not yet — MIRA uses the founders' connected Google account; revisit before week 4 email summaries |
 
 ## Already decided (1 Oct 2026 meeting)
 - Use Claude Code, not chat.
