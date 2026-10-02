@@ -13,4 +13,4 @@ Status: Open / Done / Blocked / Dropped. "[TBD]" = owner or date not yet agreed.
 | F7 | Drop first CSV/XLSX exports into workspace/data-inbox/ | [TBD] | [TBD] | Open | 1 Oct meeting | No customer personal data |
 | F8 | Week 2–3: wire role Sheets with IMPORTRANGE | [TBD] | [TBD] | Open | Phase plan | |
 | F9 | Week 4: daily summary by email | [TBD] | [TBD] | Open | Phase plan | |
-| F10 | Set up MIRA in the cloud (per D6) and confirm it is reachable from phone | Founders | [TBD] | Open | 2 Oct decision D4 | D6 = Claude Code on the web; repo ekanshu-pixel/AI. Remaining: schedule daily summary |
+| F10 | Set up MIRA in the cloud (per D6) and confirm it is reachable from phone | Founders | [TBD] | Open | 2 Oct decision D4 | D6 = Claude Code on the web. Daily summary routine created 2 Oct (8:28am IST, every day). Remaining: add repo ekanshu-pixel/AI + Google Drive connector to the routine in claude.ai Routines |
