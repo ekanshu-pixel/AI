@@ -5,7 +5,7 @@ with that role. Pull shared numbers across with IMPORTRANGE, never by copying ra
 
 | Role      | Person(s) | Drive folder        | Sheet name              | Sees                                   |
 |-----------|-----------|---------------------|-------------------------|----------------------------------------|
-| Founders  | Rajneesh, Ekanshu | /MIRA/founders | Founders Dashboard   | Everything (summaries)                 |
+| Founders  | Founders  | /MIRA/founders | Founders Dashboard   | Everything (summaries)                 |
 | CFO       | Virgo CFO (Finance Head) | /MIRA/finance       | CFO Dashboard           | Cash, AR/AP, margins, bank balances    |
 | Sales     | Virgo Sales Head | /MIRA/sales         | Sales Dashboard         | Orders, pipeline, collections          |
 | Plant     | Virgo Plant Head | /MIRA/plant         | Plant Dashboard         | Production, downtime, stock, quality   |
