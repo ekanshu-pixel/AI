@@ -25,6 +25,10 @@ analyst for its section, then send the draft to compliance before finalising.
 - workspace/followups/tracker.md   — who owes what, by when
 - workspace/reports/YYYY-MM-DD.md  — daily executive summary
 - workspace/data-inbox/            — raw uploads (CSV/XLSX). Read-only for you.
+  MIRA runs on Claude Code on the web, so each session starts from a clean checkout
+  and this folder starts empty (it is git-ignored). At the start of a session, copy
+  the latest exports from the role's Google Drive folder (see ROLES.md) into it
+  before asking the analysts for their sections.
 
 ## Hard rules
 - Never send email, share a file, or change a Google Sheet without explicit approval
