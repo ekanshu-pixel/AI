@@ -6,7 +6,7 @@ Status: Open / Done / Blocked / Dropped. "[TBD]" = owner or date not yet agreed.
 |----|--------|-------|-----|--------|--------|-------|
 | F1 | Buy Claude plan that includes Claude Code | [TBD] | [TBD] | Open | 1 Oct meeting | Depends on D3 |
 | F2 | Install Claude Code and confirm `/agents` shows 5 specialists | [TBD] | [TBD] | Open | 1 Oct meeting | |
-| F3 | Fill in ROLES.md names | Founders | [TBD] | Open | 1 Oct meeting | Depends on D2 |
+| F3 | Fill in ROLES.md names | Founders | [TBD] | Done | 1 Oct meeting | Role titles set 2 Oct; add real people + emails before F4 |
 | F4 | Create Drive folders /MIRA/founders, /finance, /sales, /plant and share per role | [TBD] | [TBD] | Open | 1 Oct meeting | |
 | F5 | Create one Google Sheet per role (Founders, CFO, Sales, Plant Dashboard) | [TBD] | [TBD] | Open | 1 Oct meeting | |
 | F6 | Connect Google Drive/Sheets/Gmail to Claude Code via MCP | [TBD] | [TBD] | Open | 1 Oct meeting | |
